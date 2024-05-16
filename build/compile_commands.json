@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/fourthchicken/qtlogin/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/fourthchicken/qtlogin/build/qtlogin_autogen/include -isystem /opt/Qt/6.5.3/gcc_64/include/QtCore -isystem /opt/Qt/6.5.3/gcc_64/include -isystem /opt/Qt/6.5.3/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.5.3/gcc_64/include/QtWidgets -isystem /opt/Qt/6.5.3/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/qtlogin.dir/qtlogin_autogen/mocs_compilation.cpp.o -c /home/fourthchicken/qtlogin/build/qtlogin_autogen/mocs_compilation.cpp",
+  "file": "/home/fourthchicken/qtlogin/build/qtlogin_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/fourthchicken/qtlogin/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/fourthchicken/qtlogin/build/qtlogin_autogen/include -isystem /opt/Qt/6.5.3/gcc_64/include/QtCore -isystem /opt/Qt/6.5.3/gcc_64/include -isystem /opt/Qt/6.5.3/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.5.3/gcc_64/include/QtWidgets -isystem /opt/Qt/6.5.3/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/qtlogin.dir/main.cpp.o -c /home/fourthchicken/qtlogin/main.cpp",
+  "file": "/home/fourthchicken/qtlogin/main.cpp"
+},
+{
+  "directory": "/home/fourthchicken/qtlogin/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/fourthchicken/qtlogin/build/qtlogin_autogen/include -isystem /opt/Qt/6.5.3/gcc_64/include/QtCore -isystem /opt/Qt/6.5.3/gcc_64/include -isystem /opt/Qt/6.5.3/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.5.3/gcc_64/include/QtWidgets -isystem /opt/Qt/6.5.3/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/qtlogin.dir/mainwindow.cpp.o -c /home/fourthchicken/qtlogin/mainwindow.cpp",
+  "file": "/home/fourthchicken/qtlogin/mainwindow.cpp"
+},
+{
+  "directory": "/home/fourthchicken/qtlogin/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/fourthchicken/qtlogin/build/qtlogin_autogen/include -isystem /opt/Qt/6.5.3/gcc_64/include/QtCore -isystem /opt/Qt/6.5.3/gcc_64/include -isystem /opt/Qt/6.5.3/gcc_64/mkspecs/linux-g++ -isystem /opt/Qt/6.5.3/gcc_64/include/QtWidgets -isystem /opt/Qt/6.5.3/gcc_64/include/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/qtlogin.dir/qttext.cpp.o -c /home/fourthchicken/qtlogin/qttext.cpp",
+  "file": "/home/fourthchicken/qtlogin/qttext.cpp"
+}
+]

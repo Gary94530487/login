@@ -1,0 +1,9 @@
+/home/fourthchicken/qtlogin/build/CMakeFiles/qtlogin.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/edit_cache.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/rebuild_cache.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/list_install_components.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/install.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/install/local.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/install/strip.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/qtlogin_autogen_timestamp_deps.dir
+/home/fourthchicken/qtlogin/build/CMakeFiles/qtlogin_autogen.dir
